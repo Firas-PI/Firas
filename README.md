@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Firas
-- 👀 I’m interested in artificial intelligence
+- 👀 I’m interested in artificial intelligence and machine learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ferasabdallah88@gmail.com
