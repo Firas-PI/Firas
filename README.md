@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Firas24
+- 👋 Hi, I’m Firas
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
